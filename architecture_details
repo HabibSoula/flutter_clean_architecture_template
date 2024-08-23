@@ -1,0 +1,18 @@
+3 main layers:
+
+- Data
+
+- Domain
+
+- Presentation
+
+
+Presentation layer:
+
+- Pages
+
+- State management (Bloc)
+
+- Widgets (used in the pages)
+
+Domain layer: (No dependencies on other enteties)
