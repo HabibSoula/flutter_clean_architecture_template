@@ -16,6 +16,8 @@ class MyApp extends StatelessWidget {
           colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
           useMaterial3: true,
         ),
-        home: Container());
+        home: Container(
+          padding: EdgeInsets.all(8),
+        ));
   }
 }
